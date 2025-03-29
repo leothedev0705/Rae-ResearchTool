@@ -1,5 +1,4 @@
-# RAE - Research Aggregator Engine
-
+# RAE - Research Assistance Enhancer
 RAE is a powerful research paper aggregation tool that helps researchers find and analyze academic papers from multiple sources including Semantic Scholar, CrossRef, PubMed, and Google Scholar.
 
 ## Features
